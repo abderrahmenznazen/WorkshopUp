@@ -1,0 +1,14 @@
+.inp{
+    background-color: #ffffff;
+}
+.inp input{
+    color: #ffffff;
+    height: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
+
+.inp legend{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 25px;
+}
